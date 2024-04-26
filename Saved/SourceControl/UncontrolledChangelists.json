@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Licensed User/Documents/Unreal Projects/Playground/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/Licensed User/Documents/Unreal Projects/Playground/Content/PersonalContent/Levels/MechTestGround.umap",
+				"C:/Users/Licensed User/Documents/Unreal Projects/Playground/Content/PersonalContent/src/Materials/M_Skybox.uasset",
+				"C:/Users/Licensed User/Documents/Unreal Projects/Playground/Content/PersonalContent/src/Textures/Screenshot_2023-04-11_041812.uasset",
+				"C:/Users/Licensed User/Documents/Unreal Projects/Playground/Content/PersonalContent/Blueprints/BP_SP_Sky.uasset",
+				"C:/Users/Licensed User/Documents/Unreal Projects/Playground/Content/PersonalContent/Blueprints/PCG_Building.uasset",
+				"C:/Users/Licensed User/Documents/Unreal Projects/Playground/Content/PersonalContent/Blueprints/BP_Building.uasset",
+				"C:/Users/Licensed User/Documents/Unreal Projects/Playground/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+			]
+		}
+	]
+}
